@@ -1,0 +1,1 @@
+.md      markdown 写法  记笔记专用
